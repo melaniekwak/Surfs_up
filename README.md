@@ -23,4 +23,10 @@ Here are the results for temperatures in December
 
 ### Summary
 
-Given these differences, I would conclude that the degree changes between December and June would not make a big impact on the sales of ice cream in Oahu.
+Given these differences, I would conclude that the degree changes between December and June would not make a big impact on the sales of ice cream in Oahu. 
+
+Additionally, we can find more information to include in our analysis.
+
+![query](station_analysis.png)
+
+Here, we have foud the total number of stations as well as the activity at each one.
